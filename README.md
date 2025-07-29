@@ -1,1 +1,2 @@
-# SPIW-PROJ1
+# Kontroler sieciowy
+Repozytorium zawiera kod kontrolera sieciowego oraz stworzonej topologii. Kontroler zarządza regułami przepływu pakietów w sieci, biorąc pod uwagę zmienne takie jak opóźnienia na poszczególnych łączach oraz aktualne obciążenie tych łączy. Projekt może być wykorzystywany do testowania zachowania sieci w zależności od zmieniających się warunków transmisji oraz do eksperymentowania z dynamicznym sterowaniem ruchem sieciowym.
